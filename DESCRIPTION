@@ -4,18 +4,6 @@ Title: Package test
 Version: 0.0.1
 Date: 2012-02-04
 Depends:
-	lubridate,
-	timeDate,
-	gdata,
-	plyr,
-    stringr,
-    RCurl,
-    XML,
-    utils,
-    quantmod,
-    qmao,
-    FinancialInstrument,
-    RQuantLib
 Suggests:
 Author: package tester
 Maintainer: package.tester <package.tester@gmail.com>
